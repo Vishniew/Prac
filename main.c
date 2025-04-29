@@ -1,7 +1,8 @@
 #include <stdio.h>
 void sum()
 {
-    int val = 3+7;
+    int x=3,y=7;
+    int val = x+y;
     printf("%d\n",val);
 }
 int main(int argc, char **argv) {
