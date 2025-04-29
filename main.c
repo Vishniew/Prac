@@ -5,6 +5,10 @@ void sum()
     int val = x+y;
     printf("%d\n",val);
 }
+void fun()
+{
+    printf("%s","Vishnew\n");
+}
 int main(int argc, char **argv) {
     
     sum();
